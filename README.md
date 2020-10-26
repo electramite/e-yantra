@@ -17,8 +17,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="electramite | LinkedIn" width="22px" src="https://www.linkedin.com/in/shashwat-patel-537a14190" />][linkedin]
-[<img align="left" alt="electramite | Instagram" width="22px" src="https://instagram.com/electramite?igshid=sywivhgq7xeo" />][instagram]
+[<img align="left" alt="electramite | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="electramite | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
