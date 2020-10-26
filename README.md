@@ -1,7 +1,7 @@
 # e-yantra
 ### Hi there, I'm shashwat - aka [ELECTRAMITE][instagram] 👋
 
-[![instagram](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.instagram.com/electramite/)
+[![instagram](https://img.shields.io/website?label=Electramite&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.instagram.com/electramite/)
 
 
 ## I'm a Tinkerer, Student, and Developer!!
